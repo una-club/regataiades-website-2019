@@ -12,7 +12,7 @@ html, body {
   font-family: Lato, Helvetica;
 }
 .top-content {
-  background-image: url('../images/pics/proc/BoP.jpg'), linear-gradient(to bottom, rgba(211, 255, 255, 1) 0%, rgba(255, 255, 255, 0) 55%);
+  background-image: url('../images/pics/proc/BoP.jpg'), linear-gradient(to bottom, rgba(11, 12, 12, 0.9) 0%, rgba(11, 12, 12, 0.9) 55%);
 }
 
 .part-mythical {
@@ -279,7 +279,7 @@ h4 {
   }
 
   .top-content {
-    background-image: url('../images/pics/proc/BoP_mob.jpg'), linear-gradient(to bottom, rgba(211, 255, 255, 1) 0%, rgba(211, 255, 255, 1) 55%);
+    background-image: url('../images/pics/proc/BoP_mob.jpg'), linear-gradient(to bottom, rgba(11, 12, 12, 0.9) 0%, rgba(11, 12, 12, 0.9) 55%);
   }
   .part-mythical {
     background-image: url('../images/pics/proc/mythical_mob.jpg');
