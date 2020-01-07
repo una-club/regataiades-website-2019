@@ -23,7 +23,7 @@
             <img src="images/pics/proc/Logo-RIDN-2012-V2.png" width="350px"></div>
         <div class="header">
             <ul>
-                <!--<li class="live"><a href="/live/results.en.html" target="_blank">Live</a></li>-->
+                <!--<li class="live"><a href="/live/results.en.html#1000" target="_blank">Live</a></li>-->
                 <li><a href="#regatta">Overview</a></li>
                 <!--<li><a href="#teams">Equipes engagées</a></li>-->
                 <li><a href="#schedule">Schedule</a></li>
@@ -35,7 +35,7 @@
         <div class="label">
             <h1><b>International University Rowing Regatta</b> </h1>
             <h2>35<sup  class="low">th</sup> Edition</h2>
-            <h3>Nantes, May 4th and 5th, 2019</h3></div>
+            <h3>Nantes, May 2nd and 3th, 2020</h3></div>
         <div></div>
     </div>
 
@@ -54,7 +54,7 @@
             <div class="bs-callout bs-callout-info"
               id="callout-helper-context-color-specificity">
               <h4>Reception</h4>
-              <p>Starting from Friday, May 4th.</p>
+              <p>Starting from Friday, May 1st.</p>
             </div>
           </div>
           <div class="col-md-4">
@@ -69,8 +69,8 @@
           <div class="col-md-4">
             <h4>Races</h4>
             <ul>
-              <li>Saturday, May 5th: 1000m races.</li>
-              <li>Sunday, May 6th: 500m sprints.</li>
+              <li>Saturday, May 2nd: 1000m races.</li>
+              <li>Sunday, May 3th: 500m sprints.</li>
             </ul>
           </div>
           <div class="col-md-4">
@@ -139,7 +139,7 @@
         <div class="row">
           <div class="col-md-6">
             <div class="bs-callout bs-callout-info" id="callout-helper-context-color-specificity">
-              <h4>Saturday, May 5th – 1000m races</h4>
+              <h4>Saturday, May 2nd – 1000m races</h4>
               <ul>
                 <li>
                   <span class="time">08:00</span><span class="event">Delegate meeting (Base, ergos hall)</span>
