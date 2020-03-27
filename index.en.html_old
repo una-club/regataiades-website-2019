@@ -34,9 +34,23 @@
         </div>
         <div class="label">
             <h1><b>International University Rowing Regatta</b> </h1>
-            <h2>35<sup  class="low">th</sup> Edition</h2>
+            <h2>36<sup  class="low">th</sup> Edition - <b><a href="covid">Cancelled</a></b></h2>
             <h3>Nantes, May 2nd and 3th, 2020</h3></div>
         <div></div>
+    </div>
+	
+	<div class="content">
+      <div class="page" id="covid">
+          <h1>COVID-19</h1>
+        <div class="container">
+          <p>Hi there,<br /><br />
+			In view of the health situation that we all know, the Régataïades Organizing Committee has decided to cancel the 2020 edition. If we all hope to return to normal as soon as possible, it will not be reasonable to maintain a quality event, intended to be unifying, in view of the public health challenges that we know.<br /><br /> 
+			As such and reluctantly, but out of a reasonable necessity in view of the gravity of the CoVid19 epidemic, we invite you to meet on May 1 and 2, 2020 for the next edition of Régataïades.<br /><br />
+			We are of course at your disposal for any further questions.<br /><br />
+			Sincerely,<br /><br />
+			The Régataïades Organizing Committee</p>
+        </div>
+      </div>
     </div>
 
     <div class="content">
@@ -285,9 +299,9 @@
 
     <div class="content">
       <div id="registration" class="page">
-        <h1>Regatta Registration</h1>
+        <!--<h1>Regatta Registration</h1>
         <p>Registration is finally open: <a href="http://registration.regataiades.fr/en/teams-registration" target="_blank">it happens online</a>.</p>
-
+-->
         <h1>Meals Booking</h1>
         <p>
           Meals will be provided by our catering partner located close to the Boathouse. You can book meals for your team <a href="http://registration.regataiades.fr/en/meals-booking" target="_blank">online</a>.</p>
