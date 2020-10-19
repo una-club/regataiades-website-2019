@@ -34,23 +34,9 @@
         </div>
         <div class="label">
             <h1><b>International University Rowing Regatta</b> </h1>
-            <h2>36<sup  class="low">th</sup> Edition - <b><a href="covid">Cancelled</a></b></h2>
-            <h3>Nantes, May 2nd and 3th, 2020</h3></div>
+            <h2>36<sup  class="low">th</sup> Edition</h2>
+            <h3>Nantes, May 1st and 2nd, 2020</h3></div>
         <div></div>
-    </div>
-	
-	<div class="content">
-      <div class="page" id="covid">
-          <h1>COVID-19</h1>
-        <div class="container">
-          <p>Hi there,<br /><br />
-			In view of the health situation that we all know, the Régataïades Organizing Committee has decided to cancel the 2020 edition. If we all hope to return to normal as soon as possible, it will not be reasonable to maintain a quality event, intended to be unifying, in view of the public health challenges that we know.<br /><br /> 
-			As such and reluctantly, but out of a reasonable necessity in view of the gravity of the CoVid19 epidemic, we invite you to meet on May 1 and 2, 2021 for the next edition of Régataïades.<br /><br />
-			We are of course at your disposal for any further questions.<br /><br />
-			Sincerely,<br /><br />
-			The Régataïades Organizing Committee</p>
-        </div>
-      </div>
     </div>
 
     <div class="content">
@@ -68,7 +54,7 @@
             <div class="bs-callout bs-callout-info"
               id="callout-helper-context-color-specificity">
               <h4>Reception</h4>
-              <p>Starting from Friday, May 1st.</p>
+              <p>Starting from Friday, April 30th.</p>
             </div>
           </div>
           <div class="col-md-4">
@@ -83,8 +69,8 @@
           <div class="col-md-4">
             <h4>Races</h4>
             <ul>
-              <li>Saturday, May 2nd: 1000m races.</li>
-              <li>Sunday, May 3th: 500m sprints.</li>
+              <li>Saturday, May 1st: 1000m races.</li>
+              <li>Sunday, May 2nd: 500m sprints.</li>
             </ul>
           </div>
           <div class="col-md-4">
@@ -153,7 +139,7 @@
         <div class="row">
           <div class="col-md-6">
             <div class="bs-callout bs-callout-info" id="callout-helper-context-color-specificity">
-              <h4>Saturday, May 2nd – 1000m races</h4>
+              <h4>Saturday, May 1st – 1000m races</h4>
               <ul>
                 <li>
                   <span class="time">08:00</span><span class="event">Delegate meeting (Base, ergos hall)</span>
@@ -210,7 +196,7 @@
           <div class="col-md-6">
             <div class="bs-callout bs-callout-info"
               id="callout-helper-context-color-specificity">
-              <h4>Sunday, May 6th - 500m races</h4>
+              <h4>Sunday, May 2nd - 500m races</h4>
               <ul>
                 <li><span class="time">09:00</span><span class="event">Delegates meeting (Base, ergo hall)</span></li>
               </ul>
@@ -324,9 +310,9 @@
       <div id="partnership-info" class="page">
         <h1>Our sponsors</h1>
         <div class="row">
-          <div class="col-md-4">
+          <!--<div class="col-md-4">
             <a href="http://www.crous-nantes.fr/restauration/" target="_blank"><img src="images/sponsors/sponsors-logo-crous.png" width="200px"/></a>
-          </div>
+          </div>-->
           <div class="col-md-3">
             <a href="http://www.univ-nantes.fr" target="_blank"><img src="images/sponsors/sponsors-logo-university.png" width="200px"/></a>
           </div>
@@ -340,7 +326,7 @@
             <a href="http://univ-nantes-aviron.fr/" target="_blank"><img src="images/sponsors/una_logo.svg" width="140px"/></a>
           </div>
         </div>
-        <h1>Our partners</h1>
+        <!--<h1>Our partners</h1>
         <div class="row">
           <div class="col-md-4">
             <a href="http://www.crous-nantes.fr/restauration/" target="_blank"><img src="images/sponsors/sponsors-logo-crous.png" width="200px"/></a>
@@ -351,7 +337,7 @@
           <div class="col-md-4">
             <a href="http://www.prun.net/money-time/" target="_blank"><img src="images/sponsors/sponsors-logo-prune.png" width="200px"/></a>
           </div>
-        </div>
+        </div>-->
         <h1>Our support</h1>
         <div class="row">
           <div class="col-md-3">
@@ -533,9 +519,9 @@
                 <div class="col-md-6">
                     <div class="bs-callout bs-callout-info" id="callout-helper-context-color-specificity">
                         <ul>
-                            <li>Telephone : 09.54.01.48.10</li>
+                            <li>Telephone : +33(0)9.54.01.48.10</li>
                             <li><a href="https://www.facebook.com/Regataiades">Facebook</a></li>
-                            <li>Mail : <a href="mailto:contact@regataiades.fr">contact@regataiades.fr</a></li>
+                            <li>Mail : contact[at]regataiades.fr</li>
                             <li>Address: 2 rue de la Houssinière 44300 Nantes</li>
                         </ul>
                     </div>
@@ -554,7 +540,7 @@
                 <ul class="stayTuned">
                     <li>Fees and prices to be announced</li>
                     <li>Accomodation offers to be available</li>
-                    <li>Registration opens in 2019</li>
+                    <li>Registration opens in 2021</li>
                 </ul>
                 <div class="social">
                     <a class="new_window" href="https://www.facebook.com/Regataiades" title="Facebook Club Université Nantes Aviron (UNA)"><i class="fa fa-facebook-square fa-3"></i></a>
