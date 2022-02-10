@@ -1,0 +1,6 @@
+admin@51.15.172.104
+regataiades2020
+
+docker exec -it regataiades bash
+cd /var/www/regataiades 
+git pull

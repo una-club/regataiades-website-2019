@@ -36,7 +36,7 @@
         <div class="label">
             <h1><b>International University Rowing Regatta</b> </h1>
             <h2>36<sup  class="low">th</sup> Edition</h2>
-            <h3>Nantes, May 1st and 2nd, 2021</h3></div>
+            <h3>Nantes, April 30th and May 1st, 2022</h3></div>
         <div></div>
     </div>
 
@@ -55,7 +55,7 @@
             <div class="bs-callout bs-callout-info"
               id="callout-helper-context-color-specificity">
               <h4>Reception</h4>
-              <p>Starting from Friday, April 30th.</p>
+              <p>Starting from Friday, April 29th.</p>
             </div>
           </div>
           <div class="col-md-4">
@@ -70,8 +70,8 @@
           <div class="col-md-4">
             <h4>Races</h4>
             <ul>
-              <li>Saturday, May 1st: 1000m races.</li>
-              <li>Sunday, May 2nd: 500m sprints.</li>
+              <li>Saturday, April 30th: 1000m races.</li>
+              <li>Sunday, May 1st: 500m sprints.</li>
             </ul>
           </div>
           <div class="col-md-4">
@@ -109,12 +109,25 @@
               id="callout-helper-context-color-specificity">
               <h4>Food</h4>
               <p>Our catering partner will offer lunches on Saturday and Sunday as well as dinner on Saturday.</p>
-              <p>All meals at the same price: 10E per meal per person.</p>
+              <p>All meals at the same price: 10€ per meal per person.</p>
             </div>
           </div>
         </div>
         <div class="row">
-          <a href="images/affiche-regataiades-2019- version 4.pdf" target="_blank">Event poster (PDF)</a>
+          <div class="col-md-4">
+            <div class="bs-callout bs-callout-info"
+              id="callout-helper-context-color-specificity">
+              <h4>Event poster</h4>
+				<p><a href="images/affiche-regataiades-2022-v1.jpg" target="_blank">To download here!</a> Put in your bedroom, as wallpaper, in your university. Just share it!</p>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="bs-callout bs-callout-info"
+              id="callout-helper-context-color-specificity">
+              <h4>Rower's guide</h4>
+			    <p>Firts time in Nantes? So this <a href="docs/Guide du rameur ENG.pdf" target="_blank">super touristic guide</a> is made for you!</p>
+            </div>
+          </div>
         </div>
       </div>
     </div>
@@ -134,13 +147,66 @@
 
 	<div class="content">
       <div id="results" class="page">
-        <h1>Résultats</h1>
+        <h1>Results</h1>
 
         <div class="row">
           <ul>
             <li><a href="https://drive.google.com/drive/folders/1IsWhvf4Wqh-Id5iByyw20S6fZXAwBhnP?usp=sharing" target="_blank">All results in PDFs</a></li>
           </ul>
         </div>
+		
+		<h1>Program</h1>
+
+        <div class="row">
+          <ul>
+            <!-- <li><a href="docs/invitation VETERAN 2019 V0.pdf" target="_blank">Programme vétéran (PDF)</a></li> -->
+            <li><a href="docs/PROG2022Prev Public V1.doc" target="_blank">2022 program</a></li>
+          </ul>
+        </div>
+		<div class="row">
+          <div class="col-md-6">
+            <div class="bs-callout bs-callout-info" id="callout-helper-context-color-specificity">
+              <h4>General information</h4>
+              <h5>Sites</h5>
+              <ul>
+                <li>La Jonelière : 1000m, 4 rows</li>
+                <li>La Motte Rouge : 500m, 3 rows</li>
+              </ul>
+              <h5>Boat parking</h5>
+              <ul>
+                <li>University base (Rue de la Houssinière)</li>
+                <li>La Jonelière Saturday afternoon</li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="bs-callout bs-callout-info" id="callout-helper-context-color-specificity">
+              <h5>Security</h5>
+              <ul>
+                <li>Organisation and SNA</li>
+              </ul>
+              <h5>Welcome and check-in</h5>
+              <ul>
+                <li>From Friday afternoon </li>
+                <li>University base (Rue de la Houssinière)</li>
+              </ul>
+              <h5>Awards</h5>
+              <ul>
+                <li>After each final</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+		
+		<h1>Maps</h1>
+		<div class="row">
+		  <div>La Jonelière map
+		    <img src="images/gallery/plan_joneliere.png" width="100%" />
+		  </div>
+		  <div>Motte Rouge Map
+		    <img src="images/gallery/plan_motte_rouge.png" width="100%">
+		  </div>
+		</div>
         
 		<h1>Previous editions' results</h1>
 		
@@ -277,138 +343,14 @@
 					<td>2020</td>
 					<td>Canceled</td>
 				</tr>
+				<tr>
+					<td>2021</td>
+					<td>Canceled</td>
+				</tr>
 			</table>
         </div>
-	  </div>
-    </div>
-
-    <!--<div class="content">
-      <div id="schedule" class="page">
-        <h1>Preliminary Schedule</h1>
-
-        <div class="row">
-          <div class="col-md-6">
-            <div class="bs-callout bs-callout-info" id="callout-helper-context-color-specificity">
-              <h4>Saturday, May 1st – 1000m races</h4>
-              <ul>
-                <li>
-                  <span class="time">08:00</span><span class="event">Delegate meeting (Base, ergos hall)</span>
-                </li>
-              </ul>
-              <h5>Head of the river - 1000m – two buoy lanes</h5>
-              <ul>
-                <li>
-                  <span class="time">09:45</span><span class="event">Referees set-up (La Jonelière) </span>
-                </li>
-                <li>
-                  <span class="time">10:00 – 12:00</span><span class="event">Head races – qualifications 1000m</span>
-                </li>
-                <li>
-                  <span class="time">11:30 - 13:15</span><span class="event">Lunch (University Cafeteria)</span>
-                </li>
-                <li>
-                  <span class="time">12:30 - 12:45</span><span class="event">Referees meeting (Base, ergos hall) </span>
-                </li>
-              </ul>
-              <h5>Series - 1000m</h5>
-              <ul>
-                <li>
-                  <span class="time">13:00</span><span class="event">Referees set-up (La Jonelière)</span>
-                </li>
-                <li>
-                  <span class="time">13:15 – 15:00</span><span class="event">Series 1000 m</span>
-                </li>
-              </ul>
-              <h5>Finals - 1000m</h5>
-              <ul>
-                <li>
-                  <span class="time">15:00 – 16:00</span><span class="event">Ranking finals</span>
-                </li>
-                <li>
-                  <span class="time">16:00 – 17:00</span><span class="event">Finals
-                  5 to 8 - 1 to 4 </span>
-                </li>
-                <li>
-                  <span class="time">18:30 - 19:30</span><span                    class="event">City representatives reception (Base)</span>
-                </li>
-                <li>
-                  <span class="time">18:30 - 20:30</span>
-                  <span
-                    class="event">Diner (University Cafeteria)</span>
-                </li>
-                <li>
-                  <span class="time">20:30</span><span class="event">Gala Diner (Base, Erg hall)</span>
-                </li>
-              </ul>
-              <img src="images/gallery/plan_joneliere.png" width="100%" />
-            </div>
-          </div>
-          <div class="col-md-6">
-            <div class="bs-callout bs-callout-info"
-              id="callout-helper-context-color-specificity">
-              <h4>Sunday, May 2nd - 500m races</h4>
-              <ul>
-                <li><span class="time">09:00</span><span class="event">Delegates meeting (Base, ergo hall)</span></li>
-              </ul>
-              <h5>Series - line races - 500m</h5>
-              <ul>
-                <li><span class="time">09:45</span><span class="event">Referees set-up (Motte Rouge)</span></li>
-                <li><span class="time">10:30 – 12:00</span><span class="event">Series</span></li>
-              </ul>
-              <ul>
-                <li><span class="time">12:00 - 13:15</span><span class="event">Lunch (University Cafeteria)</span></li>
-                <li><span class="time"> 12:45 - 13:00</span><span class="event">Referees meeting (Base, salle ergo)</span></li>
-                <li><span class="time">13:00</span><span class="event">Referees set-up (Bassin de la Motte Rouge) </span></li>
-
-                <li><span class="time">13:15 – 13:45</span><span class="event">Repechages</span></li>
-                <li><span class="time">14:00 – 15:00</span><span class="event">Semi-finals</span></li>
-              </ul>
-              <h5>Finals - 500 m</h5>
-              <ul>
-                <li><span class="time">14:45 – 16:20</span><span
-                  class="event">Ranking finals</span></li>
-                <li><span class="time">16:20 – 17:00</span><span class="event">Finals 1 to 3 – 4 to 6</span></li>
-              </ul>
-              <img src="images/gallery/plan_motte_rouge.png" width="100%">
-            </div>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-6">
-            <div class="bs-callout bs-callout-info" id="callout-helper-context-color-specificity">
-              <h4>General information</h4>
-              <h5>Sites</h5>
-              <ul>
-                <li>La Jonelière : 1000m, sur 4 lignes d’eau</li>
-                <li>La Motte Rouge : 500m, sur 3 lignes d’eau</li>
-              </ul>
-              <h5>Boat parking</h5>
-              <ul>
-                <li>University base (Rue de la Houssinière)</li>
-                <li>La Jonelière Saturday afternoon</li>
-              </ul>
-            </div>
-          </div>
-          <div class="col-md-6">
-            <div class="bs-callout bs-callout-info" id="callout-helper-context-color-specificity">
-              <h5>Security</h5>
-              <ul>
-                <li>Organisation and SNA</li>
-              </ul>
-              <h5>Welcome and check-in</h5>
-              <ul>
-                <li>From Friday afternoon </li>
-                <li>University base (Rue de la Houssinière)</li>
-              </ul>
-              <h5>Awards</h5>
-              <ul>
-                <li>After each final</li>
-              </ul>
-            </div>
-          </div>
-        </div>
       </div>
-    </div>-->
+    </div>
     
 	<div class="part-registration part">
       <div class="label">
@@ -436,13 +378,16 @@
 
     <div class="content">
       <div id="registration" class="page">
-        <!--<h1>Regatta Registration</h1>
-        <p>Registration is finally open: <a href="http://registration.regataiades.fr/en/teams-registration" target="_blank">it happens online</a>.</p>
--->
-        <h1>Meals Booking</h1>
-        <p>
-          Meals will be provided by our catering partner located close to the Boathouse. You can book meals for your team <a href="http://registration.regataiades.fr/en/meals-booking" target="_blank">online</a>.</p>
-        </p>
+        <h1>Regatta Registration</h1>
+		<p>Meals will be provided by our catering partner located close to the Boathouse. You can book meals for your team.</p>
+        <p>Registration is finally opened: <a href="https://docs.google.com/forms/d/e/1FAIpQLSc76XrQCRYMGTi4N19fBHiOaYwt9YXovwPpcLawqkDvLx2WYQ/viewform?usp=sf_link">it happens online</a>.</p>
+
+        <p><a href="docs/Waiver form ENGL.pdf">Waiver form</a></p>
+		
+        <!-- <h1>Meals Booking</h1> -->
+        <!-- <p> -->
+          <!-- Meals will be provided by our catering partner located close to the Boathouse. You can book meals for your team <a href="http://registration.regataiades.fr/en/meals-booking" target="_blank">online</a>.</p> -->
+        <!-- </p> -->
       </div>
     </div>
 
@@ -489,7 +434,7 @@
             <a href="http://www.prun.net/money-time/" target="_blank"><img src="images/sponsors/sponsors-logo-prune.png" width="200px"/></a>
           </div>
         </div>-->
-        <h1>Our support</h1>
+        <!--<h1>Our support</h1>
         <div class="row">
           <div class="col-md-3">
             <a href="http://www.univ-nantes.fr" target="_blank"><img src="images/sponsors/sponsors-logo-university.png" width="200px"/></a>
@@ -503,7 +448,7 @@
           <div class="col-md-3">
             <a href="https://www.nantes.fr/" target="_blank"><img src="images/sponsors/sponsors-logo-nantes.png" width="200px"/></a>
           </div>
-        </div>
+        </div>-->
       </div>
     </div>
     <div class="content">
@@ -691,7 +636,7 @@
                 <ul class="stayTuned">
                     <li>Fees and prices to be announced</li>
                     <li>Accomodation offers to be available</li>
-                    <li>Registration opens in 2021</li>
+                    <li>Registration opens in 2022</li>
                 </ul>
                 <div class="social">
                     <a class="new_window" href="https://www.facebook.com/Regataiades" title="Facebook Club Université Nantes Aviron (UNA)"><i class="fa fa-facebook-square fa-3"></i></a>
