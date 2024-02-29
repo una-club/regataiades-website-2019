@@ -94,6 +94,13 @@ h4 {
 
 }
 
+p {
+  margin: 15px;
+}
+ul {
+  margin: 15px;
+}
+
 .top-content .label {
   color:rgba(233, 78, 27, 1);
   background: rgba(11, 12, 12, 0.9);
