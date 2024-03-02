@@ -38,6 +38,13 @@ html, body {
 text-align: center; 
 }
 
+.center-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 .top-content,
 .part {
   background-repeat: no-repeat;
